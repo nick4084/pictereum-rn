@@ -1,0 +1,59 @@
+{
+  "name": "test5",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "jest-expo": "^21.0.2",
+    "react-test-renderer": "16.0.0-alpha.12",
+    "redux-devtools": "^3.4.0",
+    "truffle-contract": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@detox/base-x": "^3.0.4",
+    "babel-preset-es2015": "^6.24.1",
+    "base64-arraybuffer": "^0.1.5",
+    "bluebird": "^3.5.1",
+    "buffer": "^5.2.1",
+    "ipfs-api": "^26.1.2",
+    "ipfs-http-client": "^29.1.1",
+    "jsc-android": "^236355.1.1",
+    "multihashing-async": "^0.5.2",
+    "node-libs-browser": "^2.0.0",
+    "process": "^0.11.10",
+    "react": "^16.0.0-alpha.12",
+    "react-native": "^0.48.4",
+    "react-native-bip39": "^2.3.0",
+    "react-native-elements": "^0.17.0",
+    "react-native-file-picker": "0.0.13",
+    "react-native-fs": "^2.13.3",
+    "react-native-ipfs": "0.0.0",
+    "react-native-modal-picker": "0.0.16",
+    "react-native-randombytes": "^3.0.0",
+    "react-native-vector-icons": "^4.4.2",
+    "react-native-webview": "^5.2.1",
+    "react-native-webview-bridge": "^0.40.1",
+    "react-navigation": "^1.0.0-beta.15",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^0.20.0",
+    "whatwg-fetch": "2.0.4"
+  },
+  "react-native": {
+    "crypto": "react-native-crypto"
+  },
+  "browser": {
+    "crypto": "react-native-crypto"
+  }
+}
