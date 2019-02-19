@@ -1,5 +1,12 @@
-const extraNodeModules = require('node-libs-browser')
+const blacklist = require('metro-config/src/defaults/blacklist');
 
 module.exports = {
-  extraNodeModules
-}
+    resolver: {
+        blacklistRE: blacklist([
+        	/node_modules\/.*/,
+      		/android\/.*/,
+      		/ios\/.*/,
+      		/node_modules\/.*\/node_modules\/react-native\/.*/
+        ])
+    },
+};

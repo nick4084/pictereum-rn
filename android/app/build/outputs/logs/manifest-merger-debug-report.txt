@@ -10,18 +10,41 @@ MERGED from [:react-native-randombytes] /Users/nicholas/FYP/pictereum-react/node
 MERGED from [:react-native-vector-icons] /Users/nicholas/FYP/pictereum-react/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-file-picker] /Users/nicholas/FYP/pictereum-react/node_modules/react-native-file-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
 MERGED from [:react-native-webview-bridge] /Users/nicholas/FYP/pictereum-react/node_modules/react-native-webview-bridge/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.48.4] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.48.4.aar/6ab471834b0a200ae8bb62addb95e341/AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/30e743b9ee4bf8d8b44a5a46be4557cd/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:23.0.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/5ac6e12e58edcf3dcb6600109bdf3f51/AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/7b7facd701d94806f85be1c2e4e42abe/AndroidManifest.xml:10:1-18:12
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/0cd8d7f30c4f39d5848e8ae466495207/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/9c85484c75aa2ff814c792dcf54d4b12/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c4943c1ebaa7d4225763128b5d36dae5/AndroidManifest.xml:1:1-4:12
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/75c1faa63312e14c39d2b421acb15fd3/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9415089623836ced99500563e4ed9db8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a61e4dc861fcefdcd4341248430af988/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6a950dd50e9e8c84207d41bc03608e28/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/cb7f3a26e668b0c647247c5d0ed25df6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a804fc419d92d9f159e7b49c1b6c55f9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/624e71121172d4f922545e96db4ad3c5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/71bf38ea9b47845f76a8aab8534eea8d/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r236355] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/android-jsc-r236355.aar/2127bce2b995b9ebd8668c1dbda1436f/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/ddeff27a32bcea08c3833f841f8d41b2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/9ed08a812904c9b733f52508528861ce/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/c8a36dff2e38e8db8a55f27d327a8495/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/d68af9977d351135984110c389547f56/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d4d7a5204d31bdf4e2b750dc10aa5bfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bc67cdbf5e406c9721f56fe155daa18d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/943270537b8fc55fd0311307ffaaa74e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2220f1fffad0537d2275072b5a55cf94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/62dd64c8c8c1ecf40c332b822c4f8191/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c3c55e73b9c3ecc45c13bfb50e8f1a64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42f8403c65b88d57fc616a91f94a155b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c310a50e0625b6be033024e52d0106ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dcd5e7d5a8059ebff393b7294c559c04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/116a61c664086ff5cb2f10239515b1fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/892643eea2d30e273c5c49249b74d3bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/65e72904b6e3ef59c00add03ec1f84d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b07951cd4886f640e519886664adf7d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9129fe7935455ff19cc7afcfb2748afd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b54336355aa7e886890e2459a6cfecd2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/034cfafa7110482003d3e0369f65611a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ffd54cc0d7b8a1cfd4e83a78ae8c5d6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/313336db597e5fd5fc0a60f0b7461936/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3bc318554594f2e4cb1090a3f6c9b4e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a87642d57ada0e46b3176c6cfff1c45a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ff5330cb63b3b7939b7c783eaa4cf4a0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ed54995f602a7961df988bedd6bd0b86/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/34feee77b4139ceed1c50fc7edc44bbf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/78a63bb02c0c039d4accb4ecdb7f866d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1a726332a77a6447de3a567e3ee8cfe5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e8ea7e7eff4cb35dd1fd864bcb8995a4/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/nicholas/FYP/pictereum-react/android/app/src/main/AndroidManifest.xml:1:1-35:12
 INJECTED from /Users/nicholas/FYP/pictereum-react/android/app/src/main/AndroidManifest.xml:1:1-35:12
 INJECTED from /Users/nicholas/FYP/pictereum-react/android/app/src/main/AndroidManifest.xml:1:1-35:12
@@ -57,8 +80,8 @@ ADDED from /Users/nicholas/FYP/pictereum-react/android/app/src/main/AndroidManif
 		ADDED from /Users/nicholas/FYP/pictereum-react/android/app/src/main/AndroidManifest.xml:8:22-77
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/nicholas/FYP/pictereum-react/android/app/src/main/AndroidManifest.xml:9:5-77
-MERGED from [com.facebook.react:react-native:0.48.4] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.48.4.aar/6ab471834b0a200ae8bb62addb95e341/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.48.4] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.48.4.aar/6ab471834b0a200ae8bb62addb95e341/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/75c1faa63312e14c39d2b421acb15fd3/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/75c1faa63312e14c39d2b421acb15fd3/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/nicholas/FYP/pictereum-react/android/app/src/main/AndroidManifest.xml:9:22-75
 uses-permission#android.permission.CAMERA
@@ -81,30 +104,76 @@ MERGED from [:react-native-file-picker] /Users/nicholas/FYP/pictereum-react/node
 MERGED from [:react-native-file-picker] /Users/nicholas/FYP/pictereum-react/node_modules/react-native-file-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-webview-bridge] /Users/nicholas/FYP/pictereum-react/node_modules/react-native-webview-bridge/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-webview-bridge] /Users/nicholas/FYP/pictereum-react/node_modules/react-native-webview-bridge/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.48.4] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.48.4.aar/6ab471834b0a200ae8bb62addb95e341/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.48.4] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.48.4.aar/6ab471834b0a200ae8bb62addb95e341/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/30e743b9ee4bf8d8b44a5a46be4557cd/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/30e743b9ee4bf8d8b44a5a46be4557cd/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/5ac6e12e58edcf3dcb6600109bdf3f51/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/5ac6e12e58edcf3dcb6600109bdf3f51/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/7b7facd701d94806f85be1c2e4e42abe/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/7b7facd701d94806f85be1c2e4e42abe/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/0cd8d7f30c4f39d5848e8ae466495207/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/0cd8d7f30c4f39d5848e8ae466495207/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/9c85484c75aa2ff814c792dcf54d4b12/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/9c85484c75aa2ff814c792dcf54d4b12/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c4943c1ebaa7d4225763128b5d36dae5/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c4943c1ebaa7d4225763128b5d36dae5/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/75c1faa63312e14c39d2b421acb15fd3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/75c1faa63312e14c39d2b421acb15fd3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9415089623836ced99500563e4ed9db8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9415089623836ced99500563e4ed9db8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a61e4dc861fcefdcd4341248430af988/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a61e4dc861fcefdcd4341248430af988/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6a950dd50e9e8c84207d41bc03608e28/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6a950dd50e9e8c84207d41bc03608e28/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/cb7f3a26e668b0c647247c5d0ed25df6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/cb7f3a26e668b0c647247c5d0ed25df6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a804fc419d92d9f159e7b49c1b6c55f9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a804fc419d92d9f159e7b49c1b6c55f9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/624e71121172d4f922545e96db4ad3c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/624e71121172d4f922545e96db4ad3c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/71bf38ea9b47845f76a8aab8534eea8d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/71bf38ea9b47845f76a8aab8534eea8d/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r236355] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/android-jsc-r236355.aar/2127bce2b995b9ebd8668c1dbda1436f/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r236355] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/android-jsc-r236355.aar/2127bce2b995b9ebd8668c1dbda1436f/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/ddeff27a32bcea08c3833f841f8d41b2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/ddeff27a32bcea08c3833f841f8d41b2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/9ed08a812904c9b733f52508528861ce/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/9ed08a812904c9b733f52508528861ce/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/c8a36dff2e38e8db8a55f27d327a8495/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/c8a36dff2e38e8db8a55f27d327a8495/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/d68af9977d351135984110c389547f56/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/d68af9977d351135984110c389547f56/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d4d7a5204d31bdf4e2b750dc10aa5bfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d4d7a5204d31bdf4e2b750dc10aa5bfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bc67cdbf5e406c9721f56fe155daa18d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bc67cdbf5e406c9721f56fe155daa18d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/943270537b8fc55fd0311307ffaaa74e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/943270537b8fc55fd0311307ffaaa74e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2220f1fffad0537d2275072b5a55cf94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2220f1fffad0537d2275072b5a55cf94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/62dd64c8c8c1ecf40c332b822c4f8191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/62dd64c8c8c1ecf40c332b822c4f8191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c3c55e73b9c3ecc45c13bfb50e8f1a64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c3c55e73b9c3ecc45c13bfb50e8f1a64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42f8403c65b88d57fc616a91f94a155b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42f8403c65b88d57fc616a91f94a155b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c310a50e0625b6be033024e52d0106ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c310a50e0625b6be033024e52d0106ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dcd5e7d5a8059ebff393b7294c559c04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dcd5e7d5a8059ebff393b7294c559c04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/116a61c664086ff5cb2f10239515b1fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/116a61c664086ff5cb2f10239515b1fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/892643eea2d30e273c5c49249b74d3bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/892643eea2d30e273c5c49249b74d3bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/65e72904b6e3ef59c00add03ec1f84d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/65e72904b6e3ef59c00add03ec1f84d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b07951cd4886f640e519886664adf7d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b07951cd4886f640e519886664adf7d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9129fe7935455ff19cc7afcfb2748afd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9129fe7935455ff19cc7afcfb2748afd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b54336355aa7e886890e2459a6cfecd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b54336355aa7e886890e2459a6cfecd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/034cfafa7110482003d3e0369f65611a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/034cfafa7110482003d3e0369f65611a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ffd54cc0d7b8a1cfd4e83a78ae8c5d6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ffd54cc0d7b8a1cfd4e83a78ae8c5d6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/313336db597e5fd5fc0a60f0b7461936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/313336db597e5fd5fc0a60f0b7461936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3bc318554594f2e4cb1090a3f6c9b4e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3bc318554594f2e4cb1090a3f6c9b4e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a87642d57ada0e46b3176c6cfff1c45a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a87642d57ada0e46b3176c6cfff1c45a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ff5330cb63b3b7939b7c783eaa4cf4a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ff5330cb63b3b7939b7c783eaa4cf4a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ed54995f602a7961df988bedd6bd0b86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ed54995f602a7961df988bedd6bd0b86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/34feee77b4139ceed1c50fc7edc44bbf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/34feee77b4139ceed1c50fc7edc44bbf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/78a63bb02c0c039d4accb4ecdb7f866d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/78a63bb02c0c039d4accb4ecdb7f866d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1a726332a77a6447de3a567e3ee8cfe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1a726332a77a6447de3a567e3ee8cfe5/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e8ea7e7eff4cb35dd1fd864bcb8995a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e8ea7e7eff4cb35dd1fd864bcb8995a4/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/nicholas/FYP/pictereum-react/android/app/src/main/AndroidManifest.xml:12:5-14:41
 INJECTED from /Users/nicholas/FYP/pictereum-react/android/app/src/main/AndroidManifest.xml:12:5-14:41
 	android:targetSdkVersion
@@ -119,14 +188,16 @@ application
 ADDED from /Users/nicholas/FYP/pictereum-react/android/app/src/main/AndroidManifest.xml:16:5-33:19
 MERGED from [:react-native-webview] /Users/nicholas/FYP/pictereum-react/node_modules/react-native-webview/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
 MERGED from [:react-native-webview] /Users/nicholas/FYP/pictereum-react/node_modules/react-native-webview/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [com.facebook.react:react-native:0.48.4] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.48.4.aar/6ab471834b0a200ae8bb62addb95e341/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.48.4] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.48.4.aar/6ab471834b0a200ae8bb62addb95e341/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/30e743b9ee4bf8d8b44a5a46be4557cd/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/30e743b9ee4bf8d8b44a5a46be4557cd/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/5ac6e12e58edcf3dcb6600109bdf3f51/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/5ac6e12e58edcf3dcb6600109bdf3f51/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c4943c1ebaa7d4225763128b5d36dae5/AndroidManifest.xml:3:3-17
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c4943c1ebaa7d4225763128b5d36dae5/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/75c1faa63312e14c39d2b421acb15fd3/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/75c1faa63312e14c39d2b421acb15fd3/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/71bf38ea9b47845f76a8aab8534eea8d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/71bf38ea9b47845f76a8aab8534eea8d/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9129fe7935455ff19cc7afcfb2748afd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9129fe7935455ff19cc7afcfb2748afd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b54336355aa7e886890e2459a6cfecd2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b54336355aa7e886890e2459a6cfecd2/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9129fe7935455ff19cc7afcfb2748afd/AndroidManifest.xml:22:18-91
 	android:label
 		ADDED from /Users/nicholas/FYP/pictereum-react/android/app/src/main/AndroidManifest.xml:19:7-39
 	android:icon

@@ -1,5 +1,5 @@
-import PropTypes from 'prop-types';
 import React from 'react';
+import PropTypes from 'prop-types';
 import {
   View,
   StyleSheet,
@@ -8,71 +8,81 @@ import {
   ActivityIndicator,
   Text as NativeText,
 } from 'react-native';
+
 import Icon from 'react-native-vector-icons/FontAwesome';
 import Text from '../text/Text';
 import fonts from '../config/fonts';
-import ViewPropTypes from '../config/ViewPropTypes';
+
+import { ViewPropTypes, withTheme } from '../config';
 
 const log = () => {
   console.log('please attach method to this component'); // eslint-disable-line no-console
 };
 
 const colors = {
-  facebook: '#3b5998',
-  twitter: '#00aced',
-  ['google-plus-official']: '#dd4b39',
-  pinterest: '#cb2027',
-  linkedin: '#007bb6',
-  youtube: '#bb0000',
-  vimeo: '#aad450',
-  tumblr: '#32506d',
-  instagram: '#517fa4',
-  quora: '#a82400',
-  foursquare: '#0072b1',
-  wordpress: '#21759b',
-  stumbleupon: '#EB4823',
-  github: '#000000',
-  ['github-alt']: '#000000',
-  twitch: '#6441A5',
-  medium: '#02b875',
-  soundcloud: '#f50',
-  gitlab: '#e14329',
+  'github-alt': '#000000',
+  'google-plus-official': '#dd4b39',
+  'reddit-alien': '#fc461e',
+  'stack-overflow': '#f27f33',
   angellist: '#1c4082',
   codepen: '#000000',
+  envelope: '#000000',
+  etsy: '#f2581e',
+  facebook: '#3b5998',
+  foursquare: '#0072b1',
+  github: '#000000',
+  gitlab: '#e14329',
+  instagram: '#517fa4',
+  linkedin: '#007bb6',
+  medium: '#02b875',
+  pinterest: '#cb2027',
+  quora: '#a82400',
+  soundcloud: '#f50',
+  steam: '#c6c3c1',
+  stumbleupon: '#EB4823',
+  tumblr: '#32506d',
+  twitch: '#6441A5',
+  twitter: '#00aced',
+  vimeo: '#aad450',
+  wechat: '#7bb32e',
+  wordpress: '#21759b',
+  youtube: '#bb0000',
 };
 
 const SocialIcon = props => {
   const {
-    component,
-    type,
+    activityIndicatorStyle,
     button,
     disabled,
-    loading,
-    activityIndicatorStyle,
-    small,
-    onPress,
-    iconStyle,
-    style,
-    iconColor,
-    title,
-    raised,
-    light,
     fontFamily,
     fontStyle,
-    iconSize,
-    onLongPress,
     fontWeight,
+    iconColor,
+    iconSize,
+    iconStyle,
+    light,
+    loading,
+    onLongPress,
+    onPress,
+    Component = onPress || onLongPress ? Component || TouchableHighlight : View,
+    raised,
+    small,
+    style,
+    title,
+    type,
+    underlayColor,
     ...attributes
   } = props;
 
-  const Component =
-    onPress || onLongPress ? component || TouchableHighlight : View;
   let loadingElement;
   if (loading) {
     loadingElement = (
       <ActivityIndicator
-        animating={true}
-        style={[styles.activityIndicatorStyle, activityIndicatorStyle]}
+        animating
+        style={StyleSheet.flatten([
+          styles.activityIndicatorStyle,
+          activityIndicatorStyle,
+        ])}
         color={iconColor || 'white'}
         size={(small && 'small') || 'large'}
       />
@@ -80,48 +90,48 @@ const SocialIcon = props => {
   }
   return (
     <Component
-      underlayColor={light ? 'white' : colors[type]}
+      {...attributes}
+      underlayColor={light ? 'white' : underlayColor || colors[type]}
       onLongPress={disabled ? null : onLongPress || log}
       onPress={(!disabled || log) && (onPress || log)}
       disabled={disabled || false}
-      style={[
+      style={StyleSheet.flatten([
         raised && styles.raised,
         styles.container,
         button && styles.button,
         !button && raised && styles.icon,
         !button &&
-        !light &&
-        !raised && {
-          width: iconSize * 2 + 4,
-          height: iconSize * 2 + 4,
-          borderRadius: iconSize * 2,
-        },
+          !light &&
+          !raised && {
+            width: iconSize * 2 + 4,
+            height: iconSize * 2 + 4,
+            borderRadius: iconSize * 2,
+          },
         { backgroundColor: colors[type] },
         light && { backgroundColor: 'white' },
         style && style,
-      ]}
-      {...attributes}
+      ])}
     >
       <View style={styles.wrapper}>
         <Icon
-          style={[iconStyle && iconStyle]}
+          style={StyleSheet.flatten([iconStyle && iconStyle])}
           color={light ? colors[type] : iconColor}
           name={type}
           size={iconSize}
         />
-        {button &&
-          title &&
+        {button && title && (
           <Text
-            style={[
+            style={StyleSheet.flatten([
               styles.title,
               light && { color: colors[type] },
               fontFamily && { fontFamily },
               fontWeight && { fontWeight },
               fontStyle && fontStyle,
-            ]}
+            ])}
           >
             {title}
-          </Text>}
+          </Text>
+        )}
         {loading && loadingElement}
       </View>
     </Component>
@@ -129,7 +139,7 @@ const SocialIcon = props => {
 };
 
 SocialIcon.propTypes = {
-  component: PropTypes.func,
+  Component: PropTypes.func,
   type: PropTypes.string,
   button: PropTypes.bool,
   onPress: PropTypes.func,
@@ -137,6 +147,7 @@ SocialIcon.propTypes = {
   iconStyle: ViewPropTypes.style,
   style: ViewPropTypes.style,
   iconColor: PropTypes.string,
+  underlayColor: PropTypes.string,
   title: PropTypes.string,
   raised: PropTypes.bool,
   disabled: PropTypes.bool,
@@ -171,14 +182,14 @@ const styles = StyleSheet.create({
   },
   raised: {
     ...Platform.select({
-      ios: {
+      android: {
+        elevation: 2,
+      },
+      default: {
         shadowColor: 'rgba(0,0,0, .4)',
         shadowOffset: { height: 1, width: 1 },
         shadowOpacity: 1,
         shadowRadius: 1,
-      },
-      android: {
-        elevation: 2,
       },
     }),
   },
@@ -191,11 +202,11 @@ const styles = StyleSheet.create({
     color: 'white',
     marginLeft: 15,
     ...Platform.select({
-      ios: {
-        fontWeight: 'bold',
-      },
       android: {
         ...fonts.android.black,
+      },
+      default: {
+        fontWeight: 'bold',
       },
     }),
   },
@@ -209,4 +220,5 @@ const styles = StyleSheet.create({
   },
 });
 
-export default SocialIcon;
+export { SocialIcon };
+export default withTheme(SocialIcon, 'SocialIcon');

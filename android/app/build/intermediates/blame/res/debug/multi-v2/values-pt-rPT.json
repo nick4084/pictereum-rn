@@ -4,20 +4,30 @@
             "outputFile": "/Users/nicholas/FYP/pictereum-react/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
-                    "source": "/Users/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/30e743b9ee4bf8d8b44a5a46be4557cd/res/values-pt-rPT/values-pt-rPT.xml",
+                    "source": "/Users/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9129fe7935455ff19cc7afcfb2748afd/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "284,404,512,635,741,848,937,1038,1162,1249,1356,1468,1570,1678,1785,1892,2014,2113",
-                        "endColumns": "119,107,122,105,106,88,100,123,86,106,111,101,107,106,106,121,98,100",
-                        "endOffsets": "399,507,630,736,843,932,1033,1157,1244,1351,1463,1565,1673,1780,1887,2009,2108,2209"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,175,283,406,512,619,708,809,933,1020,1127,1239,1341,1449,1556,1663,1785,1884",
-                        "endColumns": "119,107,122,105,106,88,100,123,86,106,111,101,107,106,106,121,98,100",
-                        "endOffsets": "170,278,401,507,614,703,804,928,1015,1122,1234,1336,1444,1551,1658,1780,1879,1980"
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2949",
+                        "endColumns": "100",
+                        "endOffsets": "3045"
+                    }
+                },
+                {
+                    "source": "/Users/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9415089623836ced99500563e4ed9db8/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,752,836,917,1009,1103,1201,1295,1395,1489,1585,1680,1772,1864,1951,2058,2170,2272,2380,2487,2594,2765,2864",
+                        "endColumns": "119,105,106,88,100,123,83,80,91,93,97,93,99,93,95,94,91,91,86,106,111,101,107,106,106,170,98,84",
+                        "endOffsets": "220,326,433,522,623,747,831,912,1004,1098,1196,1290,1390,1484,1580,1675,1767,1859,1946,2053,2165,2267,2375,2482,2589,2760,2859,2944"
                     }
                 }
             ]
